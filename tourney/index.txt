@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[94821,["8956","static/chunks/3a91511d-e0bf2cd71bd83643.js","7241","static/chunks/7241-9cde266788fedcda.js","6874","static/chunks/6874-25765a6aaf31a36a.js","8597","static/chunks/8597-36a7955f2b50544a.js","7177","static/chunks/app/layout-f1ca6d76a954acf2.js"],"ErrorBoundary"]
+3:I[90855,["8956","static/chunks/3a91511d-e0bf2cd71bd83643.js","7241","static/chunks/7241-9cde266788fedcda.js","6874","static/chunks/6874-25765a6aaf31a36a.js","8597","static/chunks/8597-36a7955f2b50544a.js","7177","static/chunks/app/layout-f1ca6d76a954acf2.js"],"SolanaWalletProvider"]
+4:I[43344,["8956","static/chunks/3a91511d-e0bf2cd71bd83643.js","7241","static/chunks/7241-9cde266788fedcda.js","6874","static/chunks/6874-25765a6aaf31a36a.js","8597","static/chunks/8597-36a7955f2b50544a.js","7177","static/chunks/app/layout-f1ca6d76a954acf2.js"],"default"]
+5:I[2300,["8956","static/chunks/3a91511d-e0bf2cd71bd83643.js","7241","static/chunks/7241-9cde266788fedcda.js","6874","static/chunks/6874-25765a6aaf31a36a.js","8597","static/chunks/8597-36a7955f2b50544a.js","7177","static/chunks/app/layout-f1ca6d76a954acf2.js"],"default"]
+6:I[77288,["8956","static/chunks/3a91511d-e0bf2cd71bd83643.js","7241","static/chunks/7241-9cde266788fedcda.js","6874","static/chunks/6874-25765a6aaf31a36a.js","8597","static/chunks/8597-36a7955f2b50544a.js","7177","static/chunks/app/layout-f1ca6d76a954acf2.js"],"default"]
+7:I[87555,[],""]
+8:I[31295,[],""]
+9:I[11024,["6874","static/chunks/6874-25765a6aaf31a36a.js","4345","static/chunks/app/not-found-3a504e82e42fb17f.js"],"default"]
+a:I[59665,[],"OutletBoundary"]
+d:I[74911,[],"AsyncMetadataOutlet"]
+f:I[59665,[],"ViewportBoundary"]
+11:I[59665,[],"MetadataBoundary"]
+13:I[26614,[],""]
+:HL["/_next/static/css/df5d2566718c8424.css","style"]
+0:{"P":null,"b":"MVwFt35xcdR5jJPDVWzxh","p":"","c":["","tourney",""],"i":false,"f":[[["",{"children":["tourney",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/df5d2566718c8424.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","main",null,{"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]}]}]]}],{"children":["tourney",["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"p-8","children":["$","h1",null,{"className":"text-3xl font-bold","children":"Tourney Page"}]}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","UwV1ubIf2jCzTOTkRLAOcv",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],["$","$L11",null,{"children":"$L12"}]]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+14:"$Sreact.suspense"
+15:I[74911,[],"AsyncMetadata"]
+12:["$","div",null,{"hidden":true,"children":["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+e:{"metadata":[["$","title","0",{"children":"Degen Decks"}],["$","meta","1",{"name":"description","content":"On-chain poker, raffles, and rewards"}],["$","link","2",{"rel":"shortcut icon","href":"/Chip0.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","4",{"rel":"icon","href":"/Chip0.svg"}],["$","link","5",{"rel":"apple-touch-icon","href":"/Chip0.svg"}]],"error":null,"digest":"$undefined"}
+16:{"metadata":"$e:metadata","error":null,"digest":"$undefined"}

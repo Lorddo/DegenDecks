@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5786],{5786:(_,e,s)=>{s.d(e,{TOKEN_PROGRAM_ID:()=>k.x5});var k=s(29359)}}]);
